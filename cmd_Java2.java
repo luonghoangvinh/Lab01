@@ -4,3 +4,4 @@ public class cmd_Java2{
 		System.out.println("test");
 	}
 }
+// sua chut
